@@ -1,8 +1,9 @@
 gravatar-image
 ==============================================================================
 
-[Short description of the addon.]
+Install: `ember install gravatar-image`
 
+Usage `<GravatarImage @email="user@example.com" />`
 
 Compatibility
 ------------------------------------------------------------------------------
