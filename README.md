@@ -1,9 +1,7 @@
 gravatar-image
 ==============================================================================
 
-Install: `ember install gravatar-image`
-
-Usage `<GravatarImage @email="user@example.com" />`
+Easily render gravatar images.
 
 Compatibility
 ------------------------------------------------------------------------------
@@ -24,7 +22,7 @@ ember install gravatar-image
 Usage
 ------------------------------------------------------------------------------
 
-[Longer description of how to use the addon in apps.]
+In your templates: `<GravatarImage @email="user@example.com" />`
 
 
 Contributing
